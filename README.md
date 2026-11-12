@@ -135,3 +135,7 @@ Only example environment variables are included. Real application secrets, origi
 ## License
 
 No license is granted by default. All rights are reserved unless the repository owners choose a license explicitly.
+
+## Authors
+
+Developed by Davi Darroit Dutra and Bernardo Sachet Braga as a collaborative academic project.
